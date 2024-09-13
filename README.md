@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, Hola, soy Johan Lopez</h1>
 <h3 align="left">
   <ul>
-    <li>Soy desarrollador de software y estudiante de Ingeniería de Software con una fuerte pasión por la creación de productos tecnológicos innovadores y útiles.</li>
-    <li>He trabajado con diversas tecnologías como JavaScript, SQL, React, Python, Flask, HTML, CSS y APIs, lo que me ha permitido desarrollar soluciones robustas y escalables.</li> 
-    <li>Entre mis logros se destaca la creación de una API RESTful con Python y Flask, que facilita la integración eficiente con bases de datos para otros desarrolladores.</li> 
+    <li>Soy desarrollador de software con una fuerte pasión por la creación de productos tecnológicos innovadores y útiles.</li>
+    <li>He trabajado con diversas tecnologías como .NET, JavaScript, SQLServer, React, Python, Flask, HTML, CSS y APIs, lo que me ha permitido desarrollar soluciones robustas y escalables.</li>
     <li>La resolución de problemas complejos mediante la programación es lo que realmente me impulsa, siempre buscando soluciones que aporten valor.</li> 
-    <li>Me motiva mi constante deseo de mejorar y aprender, siempre buscando nuevas formas de optimizar mi trabajo y adquirir nuevos conocimientos.</li> 
+    <li>Me motiva mi constante deseo de mejorar, siempre buscando nuevas formas de optimizar mi trabajo y adquirir nuevos conocimientos.</li> 
     <li>Si buscas a un desarrollador de software comprometido y con habilidades sólidas, no dudes en contactarme. Estoy disponible en: johanandrey0210@gmail.com y siempre dispuesto a explorar nuevas oportunidades profesionales.</li>
   </ul>
 </h3>
