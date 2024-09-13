@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, Hola, soy Johan Lopez</h1>
-<h3 align="left"><ul><li>Soy un desarrollador de software y estudiante de Ing. de Software con una pasión por la creación de productos tecnológicos novedoso y valioso.</li>
-<li>Mi formación incluyó la finalización de un bootcamp, donde adquirí experiencia en una amplia gama de tecnologías, que abarcan desde JavaScript y SQL hasta React, Python, Flask, HTML, CSS y APIs.</li> <li> Algunos de mis hitos más destacados comprenden: - La elaboración de una API RESTful empleando Python y Flask, permitiendo a otros desarrolladores establecer conexiones eficientes con bases de datos.</li>  <li>La resolución de desafíos complejos y la búsqueda de soluciones a través de la programación son mi verdadera pasión.</li> <li>Me motiva mi constante deseo de mejorar y aprender. </li> <li>Si estás en la búsqueda de un apasionado y hábil desarrollador de software, no dudes en ponerte en contacto. Puedes localizarme en mi correo electrónico: johanandrey0210@gmail.com. Estoy siempre dispuesto a explorar nuevas oportunidades para ampliar mi conocimiento.</li></ul></h3>
+<h3 align="left">
+  <ul>
+    <li>Soy desarrollador de software y estudiante de Ingeniería de Software con una fuerte pasión por la creación de productos tecnológicos innovadores y útiles.</li>
+    <li>He trabajado con diversas tecnologías como JavaScript, SQL, React, Python, Flask, HTML, CSS y APIs, lo que me ha permitido desarrollar soluciones robustas y escalables.</li> 
+    <li>Entre mis logros se destaca la creación de una API RESTful con Python y Flask, que facilita la integración eficiente con bases de datos para otros desarrolladores.</li> 
+    <li>La resolución de problemas complejos mediante la programación es lo que realmente me impulsa, siempre buscando soluciones que aporten valor.</li> 
+    <li>Me motiva mi constante deseo de mejorar y aprender, siempre buscando nuevas formas de optimizar mi trabajo y adquirir nuevos conocimientos.</li> 
+    <li>Si buscas a un desarrollador de software comprometido y con habilidades sólidas, no dudes en contactarme. Estoy disponible en: johanandrey0210@gmail.com y siempre dispuesto a explorar nuevas oportunidades profesionales.</li>
+  </ul>
+</h3>
+
 
 - 🔭 I’m currently working on [E-comerce Delicompras](https://github.com/4GeeksAcademy/DeliCompras)
 
