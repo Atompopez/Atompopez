@@ -10,7 +10,7 @@
 </h3>
 
 
-- 🔭 I’m currently working on [E-comerce Delicompras](https://github.com/4GeeksAcademy/DeliCompras)
+- 🔭 I’m currently working on [Virtual Technologies](https://virtual.com.co/wp/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
